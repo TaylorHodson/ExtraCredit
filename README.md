@@ -6,3 +6,5 @@ The video focused a lot on the command line.  I found I can make files directly 
 
 
 the zenhub seems to be a tool to use with github to have a place to see what we are doing as a team.  It lets us add a clear workflow by setting issues of what we need to do.
+
+![Screenshot 2025-06-02 231023](https://github.com/user-attachments/assets/fbd0173b-3052-4f90-990f-e4f21b0bb67e)
